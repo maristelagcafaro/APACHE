@@ -1,0 +1,35 @@
+﻿{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "apache_2021",
+      "path": "apache_2021.csv",
+      "profile": "tabular-data-resource",
+      "schema": "data/schema.json",
+      "title": "APACHE",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "ÍNDICE APACHE é um sistema médico de classificação que determina os índices de gravidade de um paciente internado em uma Unidade de Terapia Intensiva (UTI).  Recomendado pelo Ministério da Saúde, o índice é calculado a partir da soma de 12 critérios clínicos, fisiológicos e laboratoriais que determinam a criticidade do quadro do paciente e o risco de óbito nas primeiras 24 horas de UTI. Para cada pontuação final calcula-se a probabilidade de sobrevida do paciente."
+    }
+  ],
+  "keywords": [
+    "APACHE"
+  ],
+  "name": "apache_2021",
+  "title": "APACHE 2021",
+  "description": "APACHE 2021",
+  "homepage": "https://github.com/fhemig",
+  "contributors": [
+    {
+      "title": "Maristela Guimarães Cáfaro Ferreira",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
